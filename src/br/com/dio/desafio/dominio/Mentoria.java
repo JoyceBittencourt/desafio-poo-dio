@@ -33,4 +33,8 @@ public class Mentoria {
     public void setData(LocalDate data) {
         this.data = data;
     }
+
+    public void setTitulo(String mentoria_de_java) {
+
+    }
 }
